@@ -906,11 +906,12 @@ footer {
     margin-top: 21px;
   }
   .footer_links_sub {
+    margin-top: 15px;
     flex-wrap: wrap;
     justify-content: center;
   }
   .footer_links_sub a {
-    margin: 0 7px;
+    margin: 5px 7px;
   }
   .footer_download {
     flex-direction: row;
